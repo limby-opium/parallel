@@ -56,3 +56,13 @@ for (int i = 0; i < n; i++)
             sum += A[i][k] * B[k][j];
         C[i][j] = sum;
     }
+```
+
+    
+## 📊 Графики
+
+#### 1. Производительность
+<img width="1408" height="895" alt="изображение" src="https://github.com/limby-opium/parallel/blob/47d7a8212237e42a4ba0d7f9769e04a315e1e9d3/LABA_2/result/compute_time_performance.png" />
+
+#### 2. Ускорение
+<img width="1377" height="887" alt="изображение" src="https://github.com/limby-opium/parallel/blob/47d7a8212237e42a4ba0d7f9769e04a315e1e9d3/LABA_2/result/speedup.png" />
