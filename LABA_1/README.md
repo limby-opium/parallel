@@ -54,10 +54,10 @@ project/
 ## 📊 Графики
 
 ### График 1: Производительность
-<img width="1408" height="895" alt="изображение" src="https://github.com/user-attachments/assets/d7441fe1-dc7b-4ee1-bf7f-c383190cc874" />
+<img width="1408" height="895" alt="изображение" src="ttps://github.com/limby-opium/parallel/tree/master/result/performance.png" />
 
 ### График 2: Ускорение
-<img width="1377" height="887" alt="изображение" src="https://github.com/user-attachments/assets/0297e659-e6df-4c17-90a6-c1c94beac58a" />
+<img width="1377" height="887" alt="изображение" src="https://github.com/limby-opium/parallel/tree/master/result/speedup.png" />
 
 ## 📈 Пример вывода
 
